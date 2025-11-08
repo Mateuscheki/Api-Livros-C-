@@ -1,0 +1,150 @@
+[
+  {
+    "ContainingType": "Biblioteca.Api.Controllers.AutoresController",
+    "Method": "Adicionar",
+    "RelativePath": "api/Autores",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Biblioteca.Application.Commands.Autor.AutorAdicionarCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Biblioteca.Api.Controllers.AutoresController",
+    "Method": "Alterar",
+    "RelativePath": "api/Autores",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Biblioteca.Application.Commands.Autor.AutorAlterarCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Biblioteca.Api.Controllers.AutoresController",
+    "Method": "Get",
+    "RelativePath": "api/Autores",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Biblioteca.Api.Controllers.AutoresController",
+    "Method": "GetById",
+    "RelativePath": "api/Autores/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Biblioteca.Api.Controllers.AutoresController",
+    "Method": "Excluir",
+    "RelativePath": "api/Autores/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Biblioteca.Api.Controllers.LivrosController",
+    "Method": "Adicionar",
+    "RelativePath": "api/Livros",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Biblioteca.Application.Commands.Livro.LivroAdicionarCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Biblioteca.Api.Controllers.LivrosController",
+    "Method": "Alterar",
+    "RelativePath": "api/Livros",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Biblioteca.Application.Commands.Livro.LivroAlterarCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Biblioteca.Api.Controllers.LivrosController",
+    "Method": "Get",
+    "RelativePath": "api/Livros",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Biblioteca.Api.Controllers.LivrosController",
+    "Method": "GetById",
+    "RelativePath": "api/Livros/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Biblioteca.Api.Controllers.LivrosController",
+    "Method": "Excluir",
+    "RelativePath": "api/Livros/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,11 @@
+C:\src\Biblioteca\Biblioteca.Application\bin\Debug\net8.0\Biblioteca.Application.deps.json
+C:\src\Biblioteca\Biblioteca.Application\bin\Debug\net8.0\Biblioteca.Application.dll
+C:\src\Biblioteca\Biblioteca.Application\bin\Debug\net8.0\Biblioteca.Application.pdb
+C:\src\Biblioteca\Biblioteca.Application\obj\Debug\net8.0\Biblioteca.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\Biblioteca\Biblioteca.Application\obj\Debug\net8.0\Biblioteca.Application.AssemblyInfoInputs.cache
+C:\src\Biblioteca\Biblioteca.Application\obj\Debug\net8.0\Biblioteca.Application.AssemblyInfo.cs
+C:\src\Biblioteca\Biblioteca.Application\obj\Debug\net8.0\Biblioteca.Application.csproj.CoreCompileInputs.cache
+C:\src\Biblioteca\Biblioteca.Application\obj\Debug\net8.0\Biblioteca.Application.dll
+C:\src\Biblioteca\Biblioteca.Application\obj\Debug\net8.0\refint\Biblioteca.Application.dll
+C:\src\Biblioteca\Biblioteca.Application\obj\Debug\net8.0\Biblioteca.Application.pdb
+C:\src\Biblioteca\Biblioteca.Application\obj\Debug\net8.0\ref\Biblioteca.Application.dll

@@ -1,0 +1,15 @@
+C:\src\Biblioteca\Biblioteca.Repository\bin\Debug\net8.0\Biblioteca.Repository.deps.json
+C:\src\Biblioteca\Biblioteca.Repository\bin\Debug\net8.0\Biblioteca.Repository.dll
+C:\src\Biblioteca\Biblioteca.Repository\bin\Debug\net8.0\Biblioteca.Repository.pdb
+C:\src\Biblioteca\Biblioteca.Repository\bin\Debug\net8.0\Biblioteca.Application.dll
+C:\src\Biblioteca\Biblioteca.Repository\bin\Debug\net8.0\Biblioteca.Application.pdb
+C:\src\Biblioteca\Biblioteca.Repository\obj\Debug\net8.0\Biblioteca.Repository.csproj.AssemblyReference.cache
+C:\src\Biblioteca\Biblioteca.Repository\obj\Debug\net8.0\Biblioteca.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\Biblioteca\Biblioteca.Repository\obj\Debug\net8.0\Biblioteca.Repository.AssemblyInfoInputs.cache
+C:\src\Biblioteca\Biblioteca.Repository\obj\Debug\net8.0\Biblioteca.Repository.AssemblyInfo.cs
+C:\src\Biblioteca\Biblioteca.Repository\obj\Debug\net8.0\Biblioteca.Repository.csproj.CoreCompileInputs.cache
+C:\src\Biblioteca\Biblioteca.Repository\obj\Debug\net8.0\Bibliote.4CC83025.Up2Date
+C:\src\Biblioteca\Biblioteca.Repository\obj\Debug\net8.0\Biblioteca.Repository.dll
+C:\src\Biblioteca\Biblioteca.Repository\obj\Debug\net8.0\refint\Biblioteca.Repository.dll
+C:\src\Biblioteca\Biblioteca.Repository\obj\Debug\net8.0\Biblioteca.Repository.pdb
+C:\src\Biblioteca\Biblioteca.Repository\obj\Debug\net8.0\ref\Biblioteca.Repository.dll
